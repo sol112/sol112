@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sol112
-- 👀 I’m interested in ...Arteficial Inteligence technology 
-- 🌱 I’m currently learning ...MSC in IT
-- 💞️ I’m looking to collaborate on ...codes on Arteficial Inteligence technology 
+- 👀 I’m interested in...Web Development 
+- 🌱 I’m interested in ...Arteficial Inteligence technology 
+- 💞️ I’m looking to collaborate on ...codes on Web Development and Arteficial Inteligence technology 
 - 📫 How to reach me ...
 
 <!---
